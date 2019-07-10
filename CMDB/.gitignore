@@ -123,24 +123,3 @@ server_app/templates/*.html
 *.sqlite3
 algs/*/model/
 
-alg_result_model_app/migrations/
-server_app/migrations/
-video_app/migrations/
-ObservationRoom1/migrations/
-ObservationRoom2/migrations/
-ObservationRoom3/migrations/
-
-algs/plugins/
-algs/locale/
-algs/hrtfs/
-algs/skins/
-algs/lua/
-algs/libvlccore.dll
-algs/libvlc.dll
-algs/npvlc.dll
-algs/axvlc.dll
-
-collect_static/
-static/
-
-*.exe
